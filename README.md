@@ -1,9 +1,10 @@
 # TPServer
 #integrantes GRUPO 4
+
 -LEONARDO HERRERA
--THIAGO NICOLAS ARMAS (sin participación)
--YONATAN EZEQUIEL RODRIGUEZ BENITEZ DO SANTOS (sin participación)
--MATIAS SCHWEITZER (sin participación)
+-THIAGO NICOLAS ARMAS
+-YONATAN EZEQUIEL RODRIGUEZ BENITEZ DO SANTOS
+-MATIAS SCHWEITZER 
 
 ## Explicación del Diagrama Topológico
 El diagrama representa la infraestructura implementada durante el desarrollo del Trabajo Práctico Integrador sobre Debian en VirtualBox.
